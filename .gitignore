@@ -1,0 +1,11 @@
+# Arquivos compilados do Java
+*.class
+
+# Arquivos de pacotes/executáveis
+*.jar
+*.war
+*.ear
+
+# Configurações locais do VS Code e logs
+.vscode/
+hs_err_pid*
